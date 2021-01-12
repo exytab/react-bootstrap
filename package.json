@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap",
-  "version": "0.33.1",
+  "version": "0.33.2",
   "description": "Bootstrap 3 components built with React",
   "repository": {
     "type": "git",
@@ -115,7 +115,7 @@
     "webpack": "^4.35.2"
   },
   "dependencies": {
-    "@babel/runtime-corejs2": "^7.0.0",
+    "@babel/runtime-corejs3": "^7.0.0",
     "classnames": "^2.2.5",
     "dom-helpers": "^3.2.0",
     "invariant": "^2.2.4",
