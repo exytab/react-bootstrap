@@ -129,6 +129,6 @@
     "warning": "^3.0.0"
   },
   "release-script": {
-    "bowerRepo": "git@github.com:react-bootstrap/react-bootstrap-bower.git"
+    "bowerRepo": "git@github.com:exytab/react-bootstrap-bower.git"
   }
 }
